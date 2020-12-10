@@ -1,0 +1,6 @@
+/Users/Alligator/Projects/SortCollections/SortCollections/bin/Debug/SortCollections.exe
+/Users/Alligator/Projects/SortCollections/SortCollections/bin/Debug/SortCollections.pdb
+/Users/Alligator/Projects/SortCollections/SortCollections/obj/x86/Debug/SortCollections.csprojResolveAssemblyReference.cache
+/Users/Alligator/Projects/SortCollections/SortCollections/obj/x86/Debug/SortCollections.csproj.CoreCompileInputs.cache
+/Users/Alligator/Projects/SortCollections/SortCollections/obj/x86/Debug/SortCollections.exe
+/Users/Alligator/Projects/SortCollections/SortCollections/obj/x86/Debug/SortCollections.pdb
